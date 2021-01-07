@@ -1,0 +1,24 @@
+{
+  "name": "youtubeviewtracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genius0412/youtubeviewtracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genius0412/youtubeviewtracker/issues"
+  },
+  "homepage": "https://github.com/genius0412/youtubeviewtracker#readme",
+  "dependencies": {
+    "google-auth-library": "^6.1.3",
+    "googleapis": "^66.0.0"
+  }
+}
